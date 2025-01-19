@@ -36,9 +36,9 @@ music? Well, try to find me without my headphones on :notes:&nbsp;.
 
 ## Stay in touch!
 
-![[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-fiorentini/)
-![[BSky Social](https://img.shields.io/badge/BSky_Social-08f?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/lordgordon.bsky.social)
-![[Personal website](https://img.shields.io/badge/Personal_website-blue?style=for-the-badge)](https://lordgordon.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-fiorentini/)
+[![BSky Social](https://img.shields.io/badge/BSky_Social-08f?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/lordgordon.bsky.social)
+[![Personal website](https://img.shields.io/badge/Personal_website-blue?style=for-the-badge)](https://lordgordon.com)
 
 ## Before you go...
 
