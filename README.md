@@ -32,15 +32,13 @@ music? Well, try to find me without my headphones on :notes:&nbsp;.
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-9400FF?style=for-the-badge&logo=terraform&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-EB1600?style=for-the-badge&logo=databricks&logoColor=white)(https://www.databricks.com/)
-
-https://spark.apache.org/docs/latest/api/python/index.html
+![Databricks](https://img.shields.io/badge/Databricks-EB1600?style=for-the-badge&logo=databricks&logoColor=white)
 
 ## Stay in touch!
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/nicholas-fiorentini/)
-![BSky Social](https://img.shields.io/badge/BSky_Social-08f?style=for-the-badge&logo=bluesky&logoColor=white)(https://bsky.app/profile/lordgordon.bsky.social)
-![Personal website](https://img.shields.io/badge/Personal_website-blue?style=for-the-badge)(https://lordgordon.com)
+![[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-fiorentini/)
+![[BSky Social](https://img.shields.io/badge/BSky_Social-08f?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/lordgordon.bsky.social)
+![[Personal website](https://img.shields.io/badge/Personal_website-blue?style=for-the-badge)](https://lordgordon.com)
 
 ## Before you go...
 
