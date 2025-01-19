@@ -15,11 +15,11 @@ usually around this hue</span> ([more here](https://duckduckgo.com/?q=color+pick
 I like to read :books:&nbsp; [books](https://www.wikiwand.com/en/Hyperion_(Simmons_novel)) (mostly fiction) and graphic 
 novels ([manga too](https://www.wikiwand.com/en/Jiro_Taniguchi)). I love watching :tv: &nbsp; 
 [good](https://www.wikiwand.com/en/The_Wire) [TV](https://www.wikiwand.com/en/The_Americans) 
-[shows](https://www.wikiwand.com/en/BoJack_Horseman) and 
-&nbsp;[:clapper: movies](https://www.wikiwand.com/en/Stanley_Kubrick_filmography). I cannot resist a 
+[shows](https://www.wikiwand.com/en/BoJack_Horseman) and :clapper:&nbsp;
+[movies](https://www.wikiwand.com/en/Stanley_Kubrick_filmography). I cannot resist a 
 [Miyazaki anime](shorturl.at/vwDV2). When I'm not reading or watching a movie I may be walking around the city or going 
 out to theatre for a nice show. Otherwise, you may find me enjoying a 
-[good coffee &nbsp; :coffee: &nbsp;](https://www.orsonerocoffee.it/). When I'm inspired I take photos :camera: and I 
+[good coffee](https://www.orsonerocoffee.it/)&nbsp;:coffee:&nbsp;. When I'm inspired I take photos :camera: and I 
 publish them in my [personal website](https://lordgordon.com).
 
 I don't even dare to start explaining what food I like. AFAIK there is not enough space on this server. You asked about 
