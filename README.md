@@ -8,8 +8,8 @@
 
 ## Something about me
 
-I'm from [Cremona, Italy](https://www.wikiwand.com/it/Cremona), the city of salame, torrone, mostarda, and violins 
-:violin: &nbsp;. I'm currently living in Milano, a city I really enjoy. My fav colour is <span style="color: #0885c9">
+I'm from [Cremona, Italy](https://www.wikiwand.com/it/Cremona), the city of salame, torrone, mostarda, and violins. 
+I'm currently living in Milano, a city I really enjoy. My fav colour is <span style="color: #0885c9">
 usually around this hue</span> ([more here](https://duckduckgo.com/?q=color+picker+%230885c9&ia=answer)).
 
 I like to read :books:&nbsp; [books](https://www.wikiwand.com/en/Hyperion_(Simmons_novel)) (mostly fiction) and graphic 
