@@ -25,6 +25,8 @@ publish them in my [personal website](https://lordgordon.com).
 I don't even dare to start explaining what food I like. AFAIK there is not enough space on this server. You asked about 
 music? Well, try to find me without my headphones on :notes:&nbsp;.
 
+I also used this GtiHub profile: [NicholasFiorentini](https://github.com/NicholasFiorentini) (now retired).
+
 ## I build with
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -33,6 +35,9 @@ music? Well, try to find me without my headphones on :notes:&nbsp;.
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-9400FF?style=for-the-badge&logo=terraform&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-EB1600?style=for-the-badge&logo=databricks&logoColor=white)
+
+<br>
+And many more.
 
 ## Stay in touch!
 
